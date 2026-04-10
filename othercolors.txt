@@ -1,2 +1,6 @@
 "Brown is not a color in the rainbow"
+<<<<<<< HEAD
 "Black is not a color in the rainbow"
+=======
+"Gray is not a color in the rainbow"
+>>>>>>> 1b93d7ebe1ab8cc87d18166110b2a7407b326da8
